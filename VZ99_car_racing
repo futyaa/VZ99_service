@@ -3,5 +3,5 @@
     "isTempUrl":true,
     "tempUrl":"",
     "targetUrl":"",
-    "countryCodeList":["Philippines","Vietnam"]
+    "countryList":["Philippines","Vietnam"]
 }
