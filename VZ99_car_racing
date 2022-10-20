@@ -1,6 +1,6 @@
 {
     "appName":"VZ99_car_racing",
-    "isTempUrl":true,
+    "isTargetUrl":true,
     "tempUrl":"",
     "targetUrl":"",
     "countryList":["Philippines","Vietnam"]
