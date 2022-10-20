@@ -1,7 +1,7 @@
 {
     "appName":"VZ99_car_racing",
-    "isTargetUrl":true,
-    "tempUrl":"",
-    "targetUrl":"",
+    "isTargetUrl":false,
+    "tempUrl":"http://www.bootstrapmb.com/item/5991/preview",
+    "targetUrl":"https://www.vz668.com/",
     "countryList":["Philippines","Vietnam"]
 }
