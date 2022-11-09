@@ -1,0 +1,21 @@
+{
+    "confDefault":{
+        "version":"0.0.0",
+        "isTargetUrl":false,
+        "countryList":[
+            "Vietnam"
+        ]
+    },
+    "confInVers":[
+        {
+            "version":"1.0.0",
+            "isTargetUrl":true,
+            "countryList":[
+                "Vietnam"
+            ]
+        }
+    ],
+    "appName":"VZ99_car_racing",
+    "tempUrl":"http://www.bootstrapmb.com/item/5991/preview",
+    "targetUrl":"https://www.vz668.com/"
+}
